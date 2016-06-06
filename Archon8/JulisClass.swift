@@ -31,4 +31,6 @@ public class JulisClass : NSObject{
         print("----------- end class")
     }
     
+    //comment
+    
 }
