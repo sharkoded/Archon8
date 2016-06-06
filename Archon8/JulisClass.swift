@@ -20,7 +20,12 @@ public class JulisClass : NSObject{
         object.printMessage("\(self.message) with \(message)")
     }
     
+    public func whoAmI(){
+        print("The Great Of Mine")
+    }
+    
     public func thisIsMe(){
          object.printMessage("This is Jlis Class")
     }
+    
 }
