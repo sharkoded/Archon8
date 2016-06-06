@@ -19,4 +19,8 @@ public class JulisClass : NSObject{
     public func printMessage(withMessage message: String) {
         object.printMessage("\(self.message) with \(message)")
     }
+    
+    public func whoAmI(){
+        print("The Great Of Mine")
+    }
 }
