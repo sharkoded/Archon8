@@ -25,7 +25,8 @@ public class JulisClass : NSObject{
     }
     
     public func thisIsMe(){
-         object.printMessage("This is Jlis Class")
+         object.printMessage("This is Julis Class")
+        print("----------- end class")
     }
     
     //comment
