@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Archon8
 
 ## Overview
@@ -89,3 +90,6 @@ public class MyClass: NSObject {
 }
 ```
 
+=======
+# Archon8
+>>>>>>> 8f0dd372f1f1395e7b731a0778d91a669f3497f0
